@@ -1,0 +1,11 @@
+table {
+  border: 3px solid black;
+}
+
+td{  border: 3px solid black;}
+
+ul{ border: 3px solid black;
+    margin-right: 70%;}
+
+li{
+  border: 3px solid black;}

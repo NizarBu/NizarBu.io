@@ -1,0 +1,44 @@
+body {
+  background-color: #47d1d1;
+}
+
+p{
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   margin-top: 100px;
+   margin-bottom: 100px;
+   margin-right: 150px;
+   margin-left: 150px;
+}
+
+
+p.solid {
+  border: 15px solid black;
+}
+
+/*{a:hover  <a href="soorten.html" target="_self">soorten</a>}*/
+
+.menubalk {
+  overflow: hidden;
+  background-color: black;
+
+}
+.menubalk a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none;
+}
+
+background-color:  ;
+.menubalk a:hover {
+    color: black;
+}
+
+body {
+  background-color: ;
+}
