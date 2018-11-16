@@ -1,8 +1,18 @@
 body {
-  background-color: #47d1d1;
+ background-color: 	#2F4172;
 }
 
-p{
+
+img {
+  position:
+  relative;
+  top: 8px;
+  left: 30px;
+  width: 500px;
+
+}
+
+article{
    padding-left: 30px;
    padding-right: 30px;
    padding-top: 30px;
@@ -11,34 +21,52 @@ p{
    margin-bottom: 100px;
    margin-right: 150px;
    margin-left: 150px;
+   border: 5px solid black;
+   position: top left
+}
+#kaas{
+  position:;
 }
 
-
-p.solid {
-  border: 15px solid black;
-}
 
 /*{a:hover  <a href="soorten.html" target="_self">soorten</a>}*/
 
-.menubalk {
+nav {
   overflow: hidden;
-  background-color: black;
+  background-color: #061339;
+  border-radius: 10px;
+  border-color: black;
 
 }
-.menubalk a {
+nav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: white;
+  border-radius: 20px;
   text-align: center;
   padding: 15px 15px;
+  margin-right: 140px;
   text-decoration: none;
 }
 
-background-color:  ;
+a:hover {
+  color: blue;
+}
+background-color:  4F2C73;
 .menubalk a:hover {
-    color: black;
+    color: blue;
 }
 
 body {
   background-color: ;
+}
+
+nav{
+  position:
+  sticky;
+  top: 0px;
+}
+
+div {
+    column-count: 3;
 }
